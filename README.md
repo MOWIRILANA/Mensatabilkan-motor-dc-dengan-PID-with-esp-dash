@@ -1,2 +1,2 @@
-# Mensatabilkan-motor-dc-dengan-PID-with-esp-dash
+# Mensatabilkan-motor-dc-dengan-PID-menggunakan-esp-dash-sebagai-tunning-pid
 #PLEASE INSTALL LIBRARY FIRST
